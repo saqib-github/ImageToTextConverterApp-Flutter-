@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/saqib/AndroidStudioProjects/image_to_text_converter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "/home/saqib/.gradle/caches/transforms-2/files-2.1/4c5840a9f62f0f72341d9e21982aed2a/core-1.1.0/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Tue Feb 23 00:17:46 PKT 2021
+base.0=/home/saqib/AndroidStudioProjects/image_to_text_converter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
